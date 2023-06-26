@@ -5,6 +5,11 @@
       "title": "hello"
     }
   ],
+  "weather":{
+    "temp": 35,
+    "humandity": 30,
+    "weather": "sunny"
+  },
   "profile": {
     "name": "api-weather"
   }
