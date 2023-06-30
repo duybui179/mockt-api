@@ -8,6 +8,7 @@
   "weather":{
     "temp": 35,
     "humandity": 30,
+    "land": 55,
     "weather": "sunny"
   },
   "profile": {
